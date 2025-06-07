@@ -14,14 +14,14 @@
 ### 1. Симуляции капитала
 Показывает, как ведёт себя капитал при 100 симуляциях стратегии:
 
-![simulations](https://raw.githubusercontent.com/catmellan/monte_carlo/main/simulations.png)
+![simulations](simulations.png)
 
 ---
 
 ### 2. Тепловая карта риска и winrate
 Оценивает, как меняется результат стратегии при разных параметрах:
 
-![heatmap](https://raw.githubusercontent.com/catmellan/monte_carlo/main/heatmap.png)
+![heatmap](heatmap.png)
 
 ---
 
