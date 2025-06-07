@@ -25,13 +25,6 @@
 
 ---
 
-### 3. Анимированная симуляция
-Визуально демонстрирует развитие капитала во времени:
-
-![animation](https://raw.githubusercontent.com/catmellan/monte_carlo/main/animation_preview.png)
-
----
-
 ## ⚙️ Возможности
 
 ✅ Поддержка до **10 000 симуляций**  
