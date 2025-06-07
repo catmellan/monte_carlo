@@ -49,8 +49,9 @@
 
 ```bash
 pip install streamlit matplotlib numpy pandas
-Запусти приложение:
 ```
+
+2. Запусти приложение:
 
 ```bash
 streamlit run montecarlo_app.py
